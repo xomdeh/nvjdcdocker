@@ -18,7 +18,7 @@
 
 国外
 ```
-git clone https://github.com/xomdeh/nvjdcdocker.git /root/nolanjdc
+git clone https://github.com/xomdeh/nvjdcdocker.git /etc/nolanjdc
 ```
 
 
