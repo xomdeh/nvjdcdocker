@@ -36,7 +36,7 @@ yum install wget unzip -y
 4创建一个目录放配置
 
 ```
- cd /etc/nolanjdc
+cd /etc/nolanjdc
 ```
 ```
 mkdir -p  Config && cd Config
@@ -47,10 +47,6 @@ mkdir -p  Config && cd Config
 
 ```
 wget -O Config.json  https://raw.githubusercontent.com/xomdeh/nvjdcdocker/main/Config/Config.json
-```
-国内请使用
- ```
-wget -O Config.json   https://ghproxy.com/https://raw.githubusercontent.com/NolanHzy/nvjdc/main/Config.json
 ```
 
 6 回到nolanjdc目录创建chromium文件夹并进入
